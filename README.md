@@ -46,17 +46,17 @@ The analysis utilizes both original and engineered data features. Key features i
 - **Predictive Modeling:** Develop early warning systems for loan defaults and explore additional machine learning models (e.g., binary classification for default prediction, revenue forecasting).
 
 ## Repository Structure
-|-- data viz/                                 # Folder containing data visualizations generated from the jupyter notebook
+|-- data viz/ - Folder containing data visualizations generated from the jupyter notebook
 
-|-- data/                                     # Folder containing dataset that is analysed in the jupyternotebook
+|-- data/ - Folder containing dataset that is analysed in the jupyternotebook
 
-|----- Turbo-aug-23-24-npl-analysis.pdf       # PDF version of jupyter notebook  
+|----- Turbo-aug-23-24-npl-analysis.pdf - PDF version of jupyter notebook  
 
-|----- Turbo_Aug_23_24_NPL_Analysis.ipynb     # Jupyter notebook containing detailed analysis and visualizations
+|----- Turbo_Aug_23_24_NPL_Analysis.ipynb - Jupyter notebook containing detailed analysis and visualizations
 
-|----- Turbo_Project_Performance_Report.pptx  # Powerpoint presentation summarizing results and findings
+|----- Turbo_Project_Performance_Report.pptx - Powerpoint presentation summarizing results and findings
 
-|----- requirements.txt                       #List of all required Python packages
+|----- requirements.txt - List of all required Python packages
 
 
 ## Author Contact Info:
